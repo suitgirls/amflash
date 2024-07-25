@@ -1,4 +1,10 @@
 body{
     background-color:rgb(246, 219, 224); 
-    color: rgb(115, 141, 127);
+    color: rgb(62, 83, 72);
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h1, h2{
+    color: rgb(32, 40, 36);
+    font-family: "Playwrite AT", cursive;
 }

@@ -26,6 +26,8 @@ h3{
 nav{
     background-color: rgb(246, 219, 224);
     color: white;
+    padding: 5px;
+    margin-bottom: 10px;
 }
 
 nav:hover{

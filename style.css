@@ -15,10 +15,24 @@ h3{
     font-weight: bold;
 }
 
-#homeButton{
+.button{
     color: rgb(91, 55, 62);
     border: 2px solid rgb(190, 108, 123);
     border-radius: 5px;
     padding: 5px;
     background-color: rgb(206, 149, 159);
+}
+
+nav{
+    background-color: rgb(246, 219, 224);
+    color: white;
+}
+
+nav:hover{
+    color:rgb(190, 108, 123);
+}
+
+
+#selfie{
+    padding: 10px;
 }

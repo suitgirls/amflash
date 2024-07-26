@@ -59,3 +59,11 @@ nav:hover{
     margin-right: auto;
 
 }
+
+div{
+    border: 1px solid black;
+    margin: 30px;
+    padding: 50px;
+    border-color: white;
+    border-radius: 25px; 
+}

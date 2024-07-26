@@ -8,12 +8,14 @@ body{
 h1{
     color: rgb(32, 40, 36);
     font-family: "Playwrite AT", cursive;
+    text-align: center;
 }
 
 h3{
     color: rgb(32, 40, 36);
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-weight: bold;
+    text-align: center;
 }
 
 .buttons{

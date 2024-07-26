@@ -3,12 +3,14 @@ body{
     color: rgb(75, 104, 89);
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     text-align: center;
+    padding: 20px; 
 }
 
 h1{
     color: rgb(32, 40, 36);
     font-family: "Playwrite AT", cursive;
     text-align: center;
+    padding: 20px; 
 }
 
 h3{
@@ -16,6 +18,7 @@ h3{
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-weight: bold;
     text-align: center;
+    padding: 20px; 
 }
 
 .buttons{
